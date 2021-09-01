@@ -1,10 +1,10 @@
 <h2 align="center"> <strong> Hey Everyone, I'am Md: Monirul Islam & here is what I'm working on! 👨‍💻</strong> </h2>
-<div align ="center">
-  <h3 > <strong> Contact with me  </strong> </h3>
-  <a href="https://www.github.com/yeazin/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<div >
+  <h3 align ="center" > <strong> Contact with me  </strong> </h3>
+  <a align ="center" href="https://www.github.com/yeazin/">
+  <img align ="center" align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/yeazin/">
+<a align ="center" href="https://www.linkedin.com/in/yeazin/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/yeariha.farsin/">
