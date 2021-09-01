@@ -4,7 +4,7 @@
 <a href="https://github.com/monirul2021">
   <img align="left" alt="Monirul's Git-Hub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="www.linkedin.com/in/monirul-slam-2021">
+<a href="https://www.linkedin.com/in/monirul-slam-2021/">
   <img align="left" alt="Monirul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/">
