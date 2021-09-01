@@ -57,13 +57,9 @@
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
      </td> 
-      <td align="center">
-       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-       <br> Docker
-     </td> 
    </tr>
+      
    <tr>
-          
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
        <br> Git
@@ -76,11 +72,7 @@
        <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
        <br> Linux
      </td>   
-    <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-       <br> Debian
-     </td> 
-       <td align="center">
+      <td align="center">
        <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
        <br> MySQL
      </td> 
