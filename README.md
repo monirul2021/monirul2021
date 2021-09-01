@@ -64,12 +64,7 @@
       <td align="center">
        <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
        <br> MySQL
-     </td> 
-     <td align="center">
-       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-       <br> WordPress
-     </td> 
-         
+     </td>    
    </tr>
       
    <tr>
@@ -104,7 +99,12 @@
     <td align="center">
        <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
        <br> Linux
-     </td>   
+     </td> 
+       <td align="center">
+       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+       <br> WordPress
+     </td> 
+         
    </tr>
 
  </table>
