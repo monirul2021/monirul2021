@@ -69,9 +69,14 @@
        <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
        <br> WordPress
      </td> 
+         
    </tr>
       
    <tr>
+          <td align="center">
+       <img alt="heroku" height=64px src="https://github.com/monirul2021/devicon/blob/master/icons/heroku/heroku-original.svg">
+       <br> Heroku
+     </td> 
       <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
