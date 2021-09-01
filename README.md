@@ -7,10 +7,10 @@
 <a href="www.linkedin.com/in/monirul-slam-2021">
   <img align="center" alt="Monirul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a margin-bottom="20px" href="https://www.facebook.com/">
+<a  href="https://www.facebook.com/">
   <img align="center" alt="Monirul's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
- 
+ <br>
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:monirulislam4103@gmail.com)
 ![](https://komarev.com/ghpvc/?username=monirul2021&color=brightgreen)
 
