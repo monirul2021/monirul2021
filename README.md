@@ -85,6 +85,10 @@
        <br> Digitalocean
      </td> 
       <td align="center">
+       <img alt="GoogleCloud" height=64px src="https://github.com/monirul2021/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+       <br> GoogleCloud
+     </td>
+      <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
      </td>
