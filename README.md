@@ -15,7 +15,7 @@
  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:monirulislam4103@gmail.com)
 ![](https://komarev.com/ghpvc/?username=monirul2021&color=brightgreen)
 
-<h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Famework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi, I'm Md: Monirul Islam, a Fullstack Web deveolper from Bangladesh.I am a Self-taught software Developer. I have a basic knowledge in Django, Javascript & Rest Famework. I love to work with new Technologies and like to learn new things everytime ..<h4>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=monirul2021&theme=radical&show_icons=true&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirul2021&theme=radical&layout=compact)](https://github.com/monirul2021)
