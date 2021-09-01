@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> <strong> Hey Everyone, Here is what I'm working on! 👨‍💻 👋</strong> </h1>
+<h1 align="center"> <strong> Hey Everyone, Here is what I'm working on! 👨‍💻 👋</strong> </h1>
 
 <!--
 **monirul2021/monirul2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
