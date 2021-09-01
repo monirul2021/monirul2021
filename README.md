@@ -77,6 +77,18 @@
        <img alt="heroku" height=64px src="https://github.com/monirul2021/devicon/blob/master/icons/heroku/heroku-original.svg">
        <br> Heroku
      </td> 
+         <td align="center">
+       <img alt="Go" height=64px src="https://github.com/monirul2021/devicon/blob/master/icons/go/go-original.svg">
+       <br> GO
+     </td> 
+      <td align="center">
+       <img alt="AWS" height=64px src="https://github.com/monirul2021/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+       <br> AWS
+     </td>
+     <td align="center">
+       <img alt="digitalocean" height=64px src="https://github.com/monirul2021/devicon/blob/master/icons/digitalocean/digitalocean-original.svg">
+       <br> Digitalocean
+     </td> 
       <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
        <br> VSCode
